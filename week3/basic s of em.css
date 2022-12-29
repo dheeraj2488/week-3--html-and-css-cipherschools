@@ -1,0 +1,15 @@
+h1{
+    font-size: 2em;
+    border: 2em solid black;
+    padding: 3em;
+}
+/* now for border it will take 2em=32 as default and border will be =2*32 */
+/* for second h1  border will be 2*80=60px */
+
+/* heere first h1 parents is  body having 16 px default font size */
+.head{
+    font-size: 20px;
+}
+/* second h1 will become 32px  */
+/* basic is this that em will se his parent only */
+/* in this h1 that is inside the div tag it will have 20 px defalut that is givn to div so it will be 2*20  */

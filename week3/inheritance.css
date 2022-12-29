@@ -1,0 +1,17 @@
+body{
+    color: red;
+}
+.first{
+    color: blue;
+}
+.second{
+    color: green;
+}
+p{
+    color: black;
+}
+/* by default the link has blue color only even we are giving another color to the body  */
+a{
+    color: brown;
+    text-decoration: none;
+}

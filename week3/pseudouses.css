@@ -1,0 +1,15 @@
+/* p::first-letter{
+    font-size: 50px;
+} */
+p::first-line{
+    font-size: 32px;
+}
+/* p::selection{
+    background: black; for only p elements
+    color: white;
+} */
+::selection{
+    background: black;
+    color: white;
+}
+/* it is applied to all */

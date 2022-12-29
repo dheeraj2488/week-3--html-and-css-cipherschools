@@ -1,0 +1,20 @@
+.para::before{
+    content: "hello ";
+    color: red;
+    border: 1px solid black;
+}
+.heading::before{
+    content: "hi how aree you ";
+    display: block;
+    color:blue ;
+    border: 1px solid black;
+    
+}
+/* by default it is inline */
+.heading::after{
+    content: "hi how aree you ";
+    display: block;
+    color:blue ;
+    border: 1px solid black;
+    
+}

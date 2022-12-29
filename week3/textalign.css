@@ -1,0 +1,24 @@
+h1{
+    background-color: lightblue;
+    text-align: center;
+   
+}
+h2{
+    background-color: yellow;
+    width: 500px;
+    text-align: center;
+}
+a{
+    display: inline-block;
+    border: 1px solid black;
+    width: 500px;
+    background-color: aqua;
+    text-align: center;
+
+}
+p{
+    background-color: blue;
+    text-align: right;
+    color: wheat;
+    width: 500px;
+}

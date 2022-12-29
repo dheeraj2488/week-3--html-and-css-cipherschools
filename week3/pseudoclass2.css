@@ -1,0 +1,14 @@
+p:first-child{
+    color:pink;
+}
+p:first-of-type{
+    color: yellow;
+}
+p:last-child{
+    color: red;
+}
+/* agr p last child h parent ka */
+p:last-of-type{
+    color: blue;
+} 
+/* hr ek parent ka last p child */

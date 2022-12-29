@@ -1,0 +1,18 @@
+html{
+    /* font-size: 10px; */
+    /* 16px>>100% */
+    font-size: 62.5%;  
+    /* 10>> 100/16*10 =62.5% */
+    /* 16is the random font size */
+}
+.para{
+    font-size: 4rem;
+    border:1px solid black;
+    padding: 0.8rem;
+}
+.head{
+    font-size: 2rem;
+    
+
+}
+/* rem is size we have given to html 4*pixels */

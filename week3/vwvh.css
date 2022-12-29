@@ -1,0 +1,12 @@
+.head{
+    height: 100vh;
+    background-color: aqua;
+}
+.second{
+    width: 50%;
+    border: 1px solid black;
+}
+.second p{
+    width: 90vw;
+    border: 1px solid black;
+}
